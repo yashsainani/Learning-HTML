@@ -6,3 +6,6 @@
 ---
 ### Cat App ###
 [Click for Cat App](https://yashsainani.github.io/Learning-HTML/HTML-Classwork-2/)
+---
+### Shopping Suggestion Table ###
+[Click for table](https://yashsainani.github.io/Learning-HTML/HTML-Homework-2/)
