@@ -9,3 +9,6 @@
 ---
 ### Shopping Suggestion Table ###
 [Click for table](https://yashsainani.github.io/Learning-HTML/HTML-Homework-2/)
+---
+### Personal Information Form ###
+[Click for form](https://yashsainani.github.io/Learning-HTML/HTML-Classwork-3/)
