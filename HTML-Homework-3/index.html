@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Form</title>
+</head>
+<body>
+    <header>
+        <h3>Personal Details</h3>
+    </header>
+    <section id="form">
+        <form >
+            <div id="Name">
+                <label for="salutation">Salutation</label>
+                <br />
+                <select id="salutation">
+                    <option value="none">--NONE--</option>
+                    <option value="Mr.">Mr.</option>
+                    <option value="Mrs.">Mrs.</option>
+                </select>
+                <br />
+                <br />
+                <label for="fname">First Name -:</label>
+                <input type="text" id="fname" placeholder="Enter first name" size="15" />
+                <br />
+                <br />
+                <label for="lname">Last Name -:</label>
+                <input type="text" id="lname" placeholder="Enter last name" size="15" />
+                <br />
+                <br />
+            </div>
+            <div id="Gender-div">
+                <label for="gender">Gender -:</label>
+                <input type="radio" name="gender" id="male"> MALE
+                <input type="radio" name="gender" id="female"> FEMALE
+                <input type="radio" name="gender" id="Others"> LGBT
+                <br />
+                <br />
+            </div>
+            <div id="other-info">
+                <label for="email">E-Mail -:</label>
+                <input type="email" name="email" id="Email" placeholder="Enter your email">
+                <br />
+                <br />
+                <label for="DOB">Date Of Birth -:</label>
+                <input type="date" id="DOB">
+                <br />
+                <br />
+                <label for="address">Address -:</label>
+                <br />
+                <textarea name="address" id="address" placeholder="Enter you address" rows="4" cols="30"></textarea>
+                <br />
+                <br />
+            </div>
+            <div id="button">
+                <button type="submit">SUBMIT</button>
+            </div>
+        </form>
+    </section>
+</body>
+</html>
