@@ -29,5 +29,3 @@
 
 esko add kro be........
 
-chutiya h tu bhhaii..
-mai v to dekhu kaise hota h pull req
